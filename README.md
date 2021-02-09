@@ -1,5 +1,7 @@
 # powerball_data
 
+-- Pulls data from the Lottery Database--
+
 SELECT 
 substr(WinningNumbers,1,2) as Number_01, 
 substr(WinningNumbers,4,2) as Number_02,
