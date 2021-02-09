@@ -1,4 +1,9 @@
 # powerball_data
+CREATE TABLE "Lottery_Powerball_Winning_Numbers__Beginning_2010" (
+	"DrawDate"	TEXT,
+	"WinningNumbers"	TEXT,
+	"Multiplier"	INTEGER
+)
 
 -- Pulls data from the Lottery Database--
 
